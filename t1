@@ -16,6 +16,14 @@ mul()
 {
 printf("mul");
 }
+
+
+div()
+{
+print("div");
+}
+
 mod();
 div();
+
 }
