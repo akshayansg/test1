@@ -4,7 +4,10 @@ main()
 add(){
 printf("add");
 }
-sub();
+sub()
+{
+print ("sub");
+}
 mul();
 div();
 }
