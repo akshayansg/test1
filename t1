@@ -16,6 +16,6 @@ mul()
 {
 printf("mul");
 }
-
+mod();
 div();
 }
